@@ -1,0 +1,124 @@
+p {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  background-color: #363062;
+}
+
+.home_text {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  left: 160px;
+}
+
+.l1 {
+  /* margin: 250px 0px 0px 160px; */
+  font-family: "Bebas Neue", cursive;
+  font-size: 30px;
+  color: #d8b9c3;
+  /* display: inline-block; */
+}
+
+.l3 {
+  margin: -10px 0px -8px 0;
+  font-family: "Bebas Neue", cursive;
+  font-size: 50px;
+  color: #d8b9c3;
+}
+
+.l4 {
+  /* margin: 0px 0px 0px 160px; */
+  font-family: sans-serif;
+  font-size: 15px;
+  color: #827397;
+}
+
+.cm {
+  /* margin: 0px 0px 0px 160px; */
+  font-family: sans-serif;
+  font-size: 15px;
+  background-color: #363062;
+  border: 2px solid #d8b9c3;
+  color: #d8b9c3;
+  padding: 10px 18px;
+  margin-top: 8px;
+}
+
+.cm:hover {
+  background-color: #d8b9c3;
+  color: #363062;
+}
+
+.vl {
+  /* margin-left: 60px; */
+  border-left: 60px solid #4d4c7d;
+  height: 100%;
+  position: absolute;
+}
+
+.dock {
+  width: 58px;
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.home {
+  color: #827397;
+  margin-bottom: 20px;
+}
+.home:hover {
+  color: #d8b9c3;
+}
+
+.me {
+  color: #827397;
+  margin-bottom: 20px;
+}
+.me:hover {
+  color: #d8b9c3;
+}
+
+.email {
+  color: #827397;
+  margin-bottom: 20px;
+}
+.email:hover {
+  color: #d8b9c3;
+}
+
+.in {
+  color: #827397;
+  margin-bottom: 20px;
+}
+.in:hover {
+  color: #d8b9c3;
+}
+
+.insta {
+  color: #827397;
+  margin-bottom: 20px;
+}
+.insta:hover {
+  color: #d8b9c3;
+}
+
+.mount {
+  position: absolute;
+  display: inline-block;
+  height: 500px;
+  margin: auto;
+  top: 0;
+  left: 950px;
+  right: 0;
+  bottom: 0;
+  color: #827397;
+}
